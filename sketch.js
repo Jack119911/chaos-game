@@ -1,4 +1,4 @@
-var corners = CORNER_LIB.corners4;
+var corners = CORNER_LIB.corners3;
 
 const currentPoint = {
   x: 200,
